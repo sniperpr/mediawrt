@@ -1,15 +1,13 @@
-
-*LibSDL:*
+*LibSDL  :*
 https://dev.openwrt.org/ticket/9336
 
-*Boost:*
+*Boost   :*
 https://dev.openwrt.org/ticket/9334
 
-*LibMAD:*
+*LibMAD  :*
 https://dev.openwrt.org/ticket/9337
 
-*Pcrecpp*
+*Pcrecpp :*
 https://dev.openwrt.org/ticket/9331 (closed)
 
-
-CMake
+*CMake   :*
