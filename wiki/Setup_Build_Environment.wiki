@@ -5,7 +5,7 @@ For windows:
 OpenWRT:
  * Install some extra packages with the Synaptic package manager
 {{{
-sudo apt-get install build-essential subversion libncurses5-dev zlib1g-dev gawk flex gettext git gperf nasm
+sudo apt-get install build-essential subversion libncurses5-dev zlib1g-dev gawk flex gettext git gperf nasm mercurial
 }}}
 
  * Checkout openwrt trunk repository
