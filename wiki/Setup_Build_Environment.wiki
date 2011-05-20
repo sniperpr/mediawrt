@@ -7,10 +7,3 @@ OpenWRT:
 {{{
 sudo apt-get install build-essential subversion libncurses5-dev zlib1g-dev gawk flex gettext git gperf nasm mercurial
 }}}
-
- * Checkout openwrt trunk repository
-{{{
-mkdir ~/openwrt/
-cd ~/openwrt/
-svn co svn://svn.openwrt.org/openwrt/trunk/
-}}}
